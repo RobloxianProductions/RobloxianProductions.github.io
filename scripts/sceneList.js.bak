@@ -42,7 +42,14 @@ function writeScene(scene) {
 			writeText("Status: On hiatus until Hentai University's main story is complete.");
 			document.getElementById('output').innerHTML +=`
 			<div class="choiceGrid">
-				<a class="choiceGridText" href="">Play the game online</a>
+				<a class="choiceGridText" href="https://noodlejacuzzi.github.io/Human%20Alteration%20App/Human%20Alteration%20App.html">Play the game online</a>
+				<a class="choiceGridText" href="https://noodlejacuzzi.github.io/Human%20Alteration%20App/LEGACY%20Human%20Alteration%20App.html">Play the legacy v1 version online</a>
+				<a class="choiceGridText" href="https://noodlejacuzzi.github.io/Human%20Alteration%20App/Human%20Alteration%20App%20Mobile.html">Play the mobile version</a>
+				<a class="choiceGridText" href="https://noodlejacuzzi.github.io/Human%20Alteration%20App/LEGACY%20Human%20Alteration%20App%20Mobile.html">Play the legacy mobile version</a>
+				<a class="choiceGridText" href="https://tfgames.site/phpbb3/viewtopic.php?f=6&t=12458">View the TFGame entry</a>
+				<a class="choiceGridText" href="https://f95zone.to/threads/human-alteration-app-v0-6-5-noodlejacuzzi.28823/">View the F95Zone thread</a>
+				<a class="choiceGridText" href="https://www.patreon.com/posts/50409048">Download the game</a>
+				<a class="choiceGridText" href="https://forms.gle/ZrDFUzTu2f7pbVZe9">Anonymous Suggestion Box</a>
 				
 			</div>
 			`;
