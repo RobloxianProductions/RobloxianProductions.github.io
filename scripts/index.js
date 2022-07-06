@@ -11,7 +11,7 @@ var games =[
 ];
 
 var news =[
-	{date: "7/4/22", game: "LU", headline: "Loli Universe", link: "robloxianproductions.github.io", text: "Official Launch"},
+	{date: "7/4/22", game: "NaN", headline: "Website", link: "robloxianproductions.github.io", text: "Official Launch"},
 ];
 
 var gamesAlreadyListed = "";
