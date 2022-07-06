@@ -14,8 +14,8 @@ function writeScene(scene) {
 						<p style="font-size: 150%">Latest News:</p>
 					</div>
 					<div class="nonGameContainer" id="Developers">
-						<p style="font-size: 150%">Patrons:</p>
-						<p>Robloxian Productions</p>
+						<p style="font-size: 150%">Developers:</p>
+						<p>Alexander192</p>
 						<p>Shadow</p>
 						<p>TrinityRR34</p>
 					</div>
